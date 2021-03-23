@@ -1,4 +1,4 @@
-# iWlz-verwijsindix
+# iWlz-verwijsindex
 Koppelvlak specificatie generieke voorziening: Verwijsindex
 
 ## documentatie
